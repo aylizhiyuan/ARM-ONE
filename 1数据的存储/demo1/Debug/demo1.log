@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/7/28 10:24:33。
+     1>项目“E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\demo1.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (demo1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>e:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\main.c(15): warning C4047: “=”:“int”与“char [7]”的间接级别不同
+     1>e:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\main.c(41): warning C4101: “a”: 未引用的局部变量
+     1>e:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\main.c(46): warning C4716: “main3”: 必须返回一个值
+     1>e:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\main.c(33): warning C4716: “main2”: 必须返回一个值
+     1>e:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\main.c(90): warning C4716: “main6”: 必须返回一个值
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\Debug\1程序在计算机中的存储.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\Debug\1程序在计算机中的存储.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\Debug\1程序在计算机中的存储.lib" /MACHINE:X86 Debug\main.obj
+         demo1.vcxproj -> E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\Debug\1程序在计算机中的存储.exe
+     1>已完成生成项目“E:\终极模式---技术之路的延伸\c++的学习\1数据的存储\demo1\demo1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43

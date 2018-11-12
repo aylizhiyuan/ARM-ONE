@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/6/28 11:44:40。
+     1>项目“E:\C++学习实例\3数组结构枚举类型\3数组结构枚举类型\3数组结构枚举类型.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>e:\c++学习实例\3数组结构枚举类型\3数组结构枚举类型\main.c(38): warning C4716: “main3”: 必须返回一个值
+     1>e:\c++学习实例\3数组结构枚举类型\3数组结构枚举类型\main.c(79): warning C4716: “main6”: 必须返回一个值
+     1>e:\c++学习实例\3数组结构枚举类型\3数组结构枚举类型\main.c(69): warning C4716: “main5”: 必须返回一个值
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++学习实例\3数组结构枚举类型\Debug\3数组结构枚举类型.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++学习实例\3数组结构枚举类型\Debug\3数组结构枚举类型.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++学习实例\3数组结构枚举类型\Debug\3数组结构枚举类型.lib" /MACHINE:X86 Debug\main.obj
+         3数组结构枚举类型.vcxproj -> E:\C++学习实例\3数组结构枚举类型\Debug\3数组结构枚举类型.exe
+     1>已完成生成项目“E:\C++学习实例\3数组结构枚举类型\3数组结构枚举类型\3数组结构枚举类型.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
